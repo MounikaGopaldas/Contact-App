@@ -1,6 +1,14 @@
 .App {
   text-align: center;
 }
+
+.ui.fixed.menu, .ui[class*="top fixed"].menu {
+  background: blue;
+  color: #fff;
+}
+
+
+
 .center-div {
   text-align: center;
 }
