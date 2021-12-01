@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+}
+.center-div {
+  text-align: center;
+}
+i.trash.alternate.outline.icon {
+  float: right;
+}
+i.edit.alternate.outline.icon {
+  float: right;
+}
+.ui.main {
+  margin-top: 5%;
+}
+.main {
+  margin-top: 5%;
+}
+button.ui.button.blue.right {
+  float: right;
+}
+.ui.container.center {
+  text-align: center;
+  display: block;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+
+}
+
+.App-header {
+  background-color: #282c34;
+  /* min-height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
